@@ -1,0 +1,34 @@
+package kr.co.movie.review.model;
+
+import java.sql.Timestamp;
+
+public class ReviewVO {
+	private int rNum;
+	private String uId;
+	private String mTitle;
+	private int rRate;
+	private String rContent;
+	private Timestamp rDate;
+
+	// 기본 생성자
+	public ReviewVO() {
+
+	}
+	
+	public ReviewVO(int rNum, String uId, String mTitle, int rRate, String rContent, Timestamp rDate) {
+		super();
+		this.rNum = rNum;
+		this.uId = uId;
+		this.mTitle = mTitle;
+		this.rRate = rRate;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}// end class

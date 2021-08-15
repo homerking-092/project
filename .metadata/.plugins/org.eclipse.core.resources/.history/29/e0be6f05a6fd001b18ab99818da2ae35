@@ -1,0 +1,5 @@
+package kr.co.movie.review.model;
+
+public class ReviewPageDTO {
+
+}

@@ -1,0 +1,7 @@
+package kr.co.movie.user.model;
+
+public class ReviewDAO {
+	// 싱글톤 패턴, 커넥션 풀을 적용
+	// DAO의 생성자 및 getInstance() 메서드
+	private static ReviewDao dao = new ReviewDAO();
+}

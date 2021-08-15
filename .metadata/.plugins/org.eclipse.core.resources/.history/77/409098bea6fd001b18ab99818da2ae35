@@ -1,0 +1,45 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+	<h1>위에는 영화정보</h1>
+	<h1>위에는 영화정보</h1>
+	<h1>위에는 영화정보</h1>
+	<h1>위에는 영화정보</h1>
+	<h1>위에는 영화정보</h1>
+	<h1>위에는 영화정보</h1>
+	<h1>위에는 영화정보</h1>
+
+
+	<a href="/MovieProject/review/review_write_form.jsp"><input type="button" value="리뷰작성"> </a>
+	<table border="1">
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+
+		<tr>
+		
+			<th>id</th>
+			<th>평점</th>
+
+		</tr>
+		<tr>
+			<th><textarea rows="30" cols="30">내용</textarea></th>
+
+		</tr>
+		<tr>
+			<th>작성날짜</th>
+
+		</tr>
+
+	</table>
+</body>
+</html>

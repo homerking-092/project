@@ -1,0 +1,29 @@
+package kr.co.movie.review.model;
+
+import javax.naming.*;
+import javax.sql.DataSource;
+
+public class ReviewDAO {
+	// 싱글톤 패턴, 커넥션 풀을 적용
+	// DAO의 생성자 및 getInstance() 메서드
+	private static ReviewDAO dao = new ReviewDAO();
+
+	private DataSource ds;
+
+	private ReviewDAO() {
+		try {
+			Context ct = new InitialContext();
+			ds = (DataSource) ct.lookup("java:comp/env/jdbc/mysql");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static ReviewDAO getInstance() {
+		if (dao == null) {
+			dao = new ReviewDAO();
+		}
+		return dao;
+	}
+	
+}// end class

@@ -1,0 +1,7 @@
+1628862661342	Move 'review_write_form.jsp' to 'review'
+1628867782059	Rename type 'service'
+1628868450733	Rename type 'UserDAO'
+1628868460399	Rename type 'UserVO'
+1628868677544	Rename package 'kr.co.movie.user.service'
+1628869132695	Rename type 'Service'
+1628869343312	Rename package 'kr.co.movie.user.model'

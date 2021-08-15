@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kr.co.movie.review.service.ReviewService&apos; to &apos;IReviewService&apos;&#x0D;&#x0A;- Original project: &apos;MovieProject&apos;&#x0D;&#x0A;- Original element: &apos;kr.co.movie.review.service.ReviewService&apos;&#x0D;&#x0A;- Renamed element: &apos;kr.co.movie.review.service.IReviewService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReviewService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kr.co.movie.review.service{ReviewService.java[ReviewService" matchStrategy="1" name="IReviewService" qualified="false" references="true" similarDeclarations="false" stamp="1629021030346" textual="false" version="1.0"/>
+</session>

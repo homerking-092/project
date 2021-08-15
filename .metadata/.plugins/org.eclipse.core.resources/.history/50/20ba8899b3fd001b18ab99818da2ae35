@@ -1,0 +1,16 @@
+package kr.co.movie.review.model;
+
+import java.sql.Timestamp;
+
+public class ReviewVO {
+	private int rNum;
+	private String uId;
+	private String mTitle;
+	private int rRate;
+	private String rContent;
+	private Timestamp rdate;
+
+	public ReviewVO() {
+
+	}
+}

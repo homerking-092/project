@@ -1,0 +1,13 @@
+package kr.co.movie.user.model;
+
+public class ReviewVO {
+	int rNum;
+	String uId;
+	String mTitle;
+	int rRate;
+	String rContent;
+
+	public ReviewVO() {
+
+	}
+}

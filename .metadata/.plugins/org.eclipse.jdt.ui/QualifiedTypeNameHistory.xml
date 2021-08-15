@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="kr.co.movie.user.service.service"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="kr.co.movie.user.model.ReviewVO"/>
+<fullyQualifiedTypeName name="kr.co.movie.user.service.Service"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.service.Service"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="org.apache.naming.java.javaURLContextFactory"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.service.ReviewWriteService"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.service.ReviewUpdateService"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.service.ReviewDeleteService"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.service.IReviewService"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.model.ReviewPageDTO"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.model.ReviewDAO"/>
+<fullyQualifiedTypeName name="kr.co.movie.review.model.ReviewVO"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
